@@ -12,14 +12,17 @@ problems.ipynb - The Jupyter notebook with all the problem solutions, code expla
 ## Project Setup
 - Clone the repository:
     git clone "https://github.com/JohnsonMununkum/computationtheroy-a.git"
+
     cd computationtheroy-a
 
 - Install Python 3.7 or higher if needed.
 - Install the required packages.
     pip install numpy
 - Try this if pip is giving errors
+
     python -m pip install numpy
-- Then run Jupyter Notebook from the project    directory.
+- Then run Jupyter Notebook from the project directory.
+
     jupyter notebook
 - After running Jupyter Notebook, open problems.ipynb and run the cells.The notebook is designed to run smoothly with all the imports placed at the top.
 
