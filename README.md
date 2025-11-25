@@ -17,6 +17,7 @@ problems.ipynb - The Jupyter notebook with all the problem solutions, code expla
 
 - Install Python 3.7 or higher if needed.
 - Install the required packages.
+
     pip install numpy
 - Try this if pip is giving errors
 
